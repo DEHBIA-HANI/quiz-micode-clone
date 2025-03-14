@@ -1,4 +1,4 @@
 //vite.config.js
 export defaut{
-  base:"/quiz-micode-clone/"
+  base:"/quiz-micode-clone/",
 }
